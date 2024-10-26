@@ -1,3 +1,3 @@
-Removing deadcodes, useless function 
-unpacking codes
+Removing dead codes and useless function ,
+unpacking codes,
 Reverse Engineering 
